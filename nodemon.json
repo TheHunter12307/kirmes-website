@@ -1,0 +1,14 @@
+{
+    "restartable": "rs",
+    "ignore": ["node_modules/**/node_modules"],
+    "verbose": "true",
+    "watch": [
+        "./",
+        "./bin",
+        "./public",
+        "./routes",
+        "./templates",
+        "./views"
+    ],
+    "ext": "js,ejs,json,env,css,html,png,jpg"
+}

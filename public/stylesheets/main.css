@@ -1,0 +1,8 @@
+.smallimage {
+    max-width: 50px;
+    max-height: 50px;
+    min-width: 20px;
+    min-height: 20px;
+    border-radius: 50%;
+    object-fit: contain;
+}
